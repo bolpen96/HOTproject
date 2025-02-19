@@ -53,4 +53,4 @@
   </tr>
 </table>
 
-[H.O.T](https://www.youtube.com/watch?v=iOQJeQmtkO0)
+[H.O.T 플레이 영상](https://www.youtube.com/watch?v=iOQJeQmtkO0)
