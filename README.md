@@ -1,4 +1,4 @@
-![pic01](https://github.com/user-attachments/assets/35839a8f-62bf-4b0f-9705-1c5ba9a1b6ab)# 🎮HOTProject
+# 🎮HOTProject
 **Unity 기반 2D/3D 하이퍼 캐주얼 모바일 게임 프로젝트**
 
 ## 🔍프로젝트 개요
