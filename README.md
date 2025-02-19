@@ -1,4 +1,4 @@
-# 🎮HOTProject
+![pic01](https://github.com/user-attachments/assets/35839a8f-62bf-4b0f-9705-1c5ba9a1b6ab)# 🎮HOTProject
 **Unity 기반 2D/3D 하이퍼 캐주얼 모바일 게임 프로젝트**
 
 ## 🔍프로젝트 개요
@@ -45,4 +45,9 @@
 <br />
 
 ## 🎞Youtube 플레이 영상
+<table>
+  <tr>
+    <td><img src ="https://github.com/user-attachments/assets/c7c0ab6a-d8b4-420a-86a5-c814ab0e022a" alt="pic01" width="500"></td>
+  </tr>
+</table>
 [H.O.T](https://www.youtube.com/watch?v=iOQJeQmtkO0)
