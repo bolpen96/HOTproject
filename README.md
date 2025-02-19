@@ -41,3 +41,8 @@
 - style : (코드 스타일 변경, 공백, 세미콜론 등)
 
 예) git commit -m "feat: 핸드트레킹 기능 추가"
+
+<br />
+
+## 🎞Youtube 플레이 영상
+[H.O.T](https://www.youtube.com/watch?v=iOQJeQmtkO0)
