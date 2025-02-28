@@ -5,20 +5,16 @@ using System;
 
 namespace DeckShuffle
 {
-    public class Array
+    public static class ArrayUtils
     {
-        static System.Random seed = new System.Random();
-
-        public static void shuffle<T>(T[] data)
+        private static Random rand = new Random(); // 전역적으로 하나의 Random 객체 유지
+    
+        public static void Shuffle<T>(T[] data)
         {
-            System.Random ran = new System.Random(seed.Next());
-
-            for(int i = 0; i<data.Length; i++)
+            for (int i = data.Length - 1; i > 0; i--) // Fisher-Yates 알고리즘 사용
             {
-                int randomValue = ran.Next(0, data.Length);
-                T temp = data[i];
-                data[i] = data[randomValue];
-                data[randomValue] = temp;
+                int randomIndex = rand.Next(0, i + 1); // 0 ~ i 사이의 랜덤 인덱스 선택
+                (data[i], data[randomIndex]) = (data[randomIndex], data[i]); // Swap 문법
             }
         }
     }
